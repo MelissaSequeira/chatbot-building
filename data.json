@@ -1,0 +1,381 @@
+[
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Menstrual Products",
+    "question": "What types of menstrual products can be used during periods?",
+    "answer": "Common menstrual products include sanitary pads, tampons, menstrual cups, menstrual discs, and period underwear."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "General Hygiene",
+    "question": "Why is it important to wash hands when using menstrual products?",
+    "answer": "Washing hands before and after using menstrual products helps prevent infections and maintains hygiene."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Sanitary Pads",
+    "question": "How often should sanitary pads be changed?",
+    "answer": "Sanitary pads should be changed every few hours, and more frequently during heavy flow."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Tampons",
+    "question": "How often should tampons be changed?",
+    "answer": "Tampons should be changed every 4 to 8 hours and should not be worn for more than 8 hours."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Tampons",
+    "question": "How to choose the right tampon absorbency?",
+    "answer": "Use the lowest absorbency tampon needed. If one tampon lasts 8 hours without needing a change, it may be too absorbent."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Menstrual Cups",
+    "question": "How should menstrual cups be cleaned?",
+    "answer": "Menstrual cups should be cleaned daily during use and sanitized after the period by boiling them for one to two minutes."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Period Underwear",
+    "question": "How do you clean period underwear?",
+    "answer": "Most period underwear is machine washable. Follow the manufacturer's cleaning instructions."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Clothing",
+    "question": "What type of clothing is best during periods?",
+    "answer": "Lightweight and breathable clothing, such as cotton underwear, is best as it prevents moisture buildup and reduces infection risk."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Infection Prevention",
+    "question": "Why should menstrual products be changed regularly?",
+    "answer": "Changing products regularly prevents moisture buildup, which can lead to bacterial or fungal infections."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Genital Care",
+    "question": "How should the genital area be cleaned during periods?",
+    "answer": "Clean the external genital area daily using water only. Avoid using chemicals as they can disturb the natural pH balance."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Toilet Hygiene",
+    "question": "What is the correct wiping method after using the toilet?",
+    "answer": "Always wipe from front to back to prevent infections."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Products Safety",
+    "question": "Why should scented hygiene products be avoided?",
+    "answer": "Scented products can irritate the skin and disrupt the natural pH balance of the vagina."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Hydration",
+    "question": "Why is drinking water important during periods?",
+    "answer": "Drinking enough water helps flush the urinary tract and reduces the risk of infections."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Cycle Tracking",
+    "question": "Why should you track your menstrual cycle?",
+    "answer": "Tracking your cycle helps monitor health and detect irregularities that may indicate conditions like diabetes or thyroid issues."
+  },
+  {
+    "topic": "Menstrual Hygiene",
+    "subtopic": "Medical Care",
+    "question": "Why are regular health check-ups important?",
+    "answer": "Regular check-ups help detect early signs of health issues like infections or cancer and maintain reproductive health."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Definition",
+    "question": "What is menstruation?",
+    "answer": "Menstruation is the monthly shedding of the lining of the uterus, where blood and tissue flow out through the vagina."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Hormones",
+    "question": "What role do hormones play in menstruation?",
+    "answer": "Hormones regulate the menstrual cycle by controlling the thickening of the uterus lining and the release of eggs (ovulation)."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Cycle Basics",
+    "question": "What is the menstrual cycle?",
+    "answer": "The menstrual cycle is the sequence of changes in the body from the first day of one period to the first day of the next."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Cycle Length",
+    "question": "What is a normal menstrual cycle length?",
+    "answer": "A normal menstrual cycle typically ranges from 21 to 35 days, with an average of 28 days."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Period Duration",
+    "question": "How long does a normal period last?",
+    "answer": "A normal period usually lasts between 3 and 7 days."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Short Period",
+    "question": "Is a 3-day period normal?",
+    "answer": "Yes, a period lasting 3 days is normal as long as it falls within the typical range of 3 to 7 days."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Phases",
+    "question": "What are the four phases of the menstrual cycle?",
+    "answer": "The four phases are menses phase, follicular phase, ovulation phase, and luteal phase."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Ovulation",
+    "question": "What is ovulation?",
+    "answer": "Ovulation is the release of an egg from the ovary, usually around day 14 of a 28-day cycle."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Age",
+    "question": "At what age does menstruation usually begin?",
+    "answer": "Menstruation typically begins around age 12 but can start as early as 8 or as late as 16."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Menopause",
+    "question": "When does menstruation stop?",
+    "answer": "Menstruation stops at menopause, usually around age 51, when ovulation ends."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Symptoms",
+    "question": "What are common symptoms of menstruation?",
+    "answer": "Common symptoms include cramps, mood changes, headaches, bloating, breast tenderness, acne, and food cravings."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Cramps",
+    "question": "Why do cramps occur during periods?",
+    "answer": "Cramps occur because the uterus contracts to shed its lining."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Cycle Changes",
+    "question": "How does the menstrual cycle change over time?",
+    "answer": "Cycles may be irregular during teenage years, become stable in adulthood, and become irregular again before menopause."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Irregular Periods",
+    "question": "What is considered an irregular period?",
+    "answer": "Irregular periods include cycles shorter than 21 days, longer than 35 days, missed periods, heavy or light bleeding, or bleeding lasting more than 7 days."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Bleeding",
+    "question": "How much bleeding is normal during a period?",
+    "answer": "Normal menstrual bleeding is about 2 to 3 tablespoons of blood per cycle."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Heavy Bleeding",
+    "question": "What are signs of heavy menstrual bleeding?",
+    "answer": "Signs include soaking a pad or tampon every 1–2 hours, passing large clots, or bleeding longer than 7 days."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Tracking",
+    "question": "Why should you track your menstrual cycle?",
+    "answer": "Tracking helps monitor health, detect irregularities, and predict ovulation and future periods."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Tracking Method",
+    "question": "How can you track your period?",
+    "answer": "Mark the first day of bleeding on a calendar and track each day until it stops, then count the days between cycles."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Health Concerns",
+    "question": "When should you see a doctor about your period?",
+    "answer": "You should see a doctor if you miss periods for 3 months, have severe pain, very heavy or light bleeding, or bleeding between periods."
+  },
+  {
+    "topic": "Menstruation",
+    "subtopic": "Pregnancy Concern",
+    "question": "When should you worry about pregnancy related to missed periods?",
+    "answer": "If your period is late after sexual activity, you should consider pregnancy and consult a healthcare provider."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Definition",
+    "question": "What is PCOS?",
+    "answer": "PCOS (Polycystic Ovary Syndrome) is a hormonal disorder where the ovaries produce excess androgens, causing irregular periods and ovulation issues."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Hormones",
+    "question": "What hormonal imbalance occurs in PCOS?",
+    "answer": "PCOS involves high levels of androgens (male hormones), which disrupt normal reproductive hormone balance."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Symptoms",
+    "question": "What are common symptoms of PCOS?",
+    "answer": "Common symptoms include irregular periods, acne, excess hair growth, weight gain, thinning hair, and infertility."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Periods",
+    "question": "How does PCOS affect menstrual cycles?",
+    "answer": "PCOS can cause irregular periods, missed periods, or heavy bleeding due to irregular ovulation."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Infertility",
+    "question": "Can PCOS cause infertility?",
+    "answer": "Yes, PCOS is one of the most common causes of infertility because it disrupts ovulation."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Age",
+    "question": "At what age does PCOS usually start?",
+    "answer": "PCOS can begin after puberty, but it is often diagnosed in women in their 20s or 30s."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Prevalence",
+    "question": "How common is PCOS?",
+    "answer": "PCOS affects up to 15% of females of reproductive age."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Hair Growth",
+    "question": "Why does PCOS cause excess hair growth?",
+    "answer": "High androgen levels in PCOS lead to excessive hair growth on the face, chest, and body."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Acne",
+    "question": "Why does PCOS cause acne?",
+    "answer": "Increased androgen levels stimulate oil production in the skin, leading to acne."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Weight",
+    "question": "Is weight gain common in PCOS?",
+    "answer": "Yes, many people with PCOS experience weight gain and may find it difficult to maintain a healthy weight."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Causes",
+    "question": "What causes PCOS?",
+    "answer": "The exact cause is unknown, but factors include genetics, high androgen levels, insulin resistance, and inflammation."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Insulin Resistance",
+    "question": "What is the role of insulin resistance in PCOS?",
+    "answer": "Insulin resistance causes higher insulin levels, which increase androgen production and worsen symptoms."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Genetics",
+    "question": "Is PCOS genetic?",
+    "answer": "Yes, genetics can play a role, and having a family history increases the risk."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Asymptomatic",
+    "question": "Can someone have PCOS without symptoms?",
+    "answer": "Yes, some people have PCOS without noticeable symptoms and may only discover it when facing fertility issues."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Diagnosis",
+    "question": "How is PCOS diagnosed?",
+    "answer": "PCOS is diagnosed through symptoms, medical history, physical exams, blood tests, and ultrasound."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Diagnosis Criteria",
+    "question": "What are the criteria for diagnosing PCOS?",
+    "answer": "Diagnosis usually requires at least two of these: irregular periods, high androgen levels, or polycystic ovaries on ultrasound."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Treatment",
+    "question": "How is PCOS treated?",
+    "answer": "Treatment includes medications, lifestyle changes, and hormonal therapies depending on symptoms and pregnancy goals."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Birth Control",
+    "question": "How does birth control help PCOS?",
+    "answer": "Hormonal birth control regulates menstrual cycles and helps reduce acne and excess hair growth."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Medication",
+    "question": "What medicines are used for PCOS?",
+    "answer": "Medications include metformin for insulin resistance and drugs that block androgen effects."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Pregnancy",
+    "question": "Can you get pregnant with PCOS?",
+    "answer": "Yes, many people with PCOS can get pregnant, though they may need treatment to help ovulation."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Fertility Treatment",
+    "question": "What treatments help with pregnancy in PCOS?",
+    "answer": "Treatments include ovulation-inducing drugs, IVF, and lifestyle changes."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Complications",
+    "question": "What health risks are associated with PCOS?",
+    "answer": "PCOS increases the risk of diabetes, high blood pressure, heart disease, and mental health conditions."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Pregnancy Risks",
+    "question": "Can PCOS cause pregnancy complications?",
+    "answer": "Yes, it can increase the risk of gestational diabetes, high blood pressure, and preterm birth."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Cure",
+    "question": "Can PCOS be cured?",
+    "answer": "There is no cure for PCOS, but symptoms can be managed with treatment and lifestyle changes."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Lifestyle",
+    "question": "How can lifestyle changes help PCOS?",
+    "answer": "Healthy eating, regular exercise, and maintaining weight can improve symptoms and hormone balance."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "When to See Doctor",
+    "question": "When should you see a doctor for PCOS?",
+    "answer": "You should see a doctor if you have irregular periods, excess hair growth, acne, or difficulty getting pregnant."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Hormones",
+    "question": "Which hormones are involved in PCOS?",
+    "answer": "Hormones involved include androgens, insulin, estrogen, progesterone, LH, and FSH."
+  },
+  {
+    "topic": "PCOS",
+    "subtopic": "Comparison",
+    "question": "What is the difference between PCOS and endometriosis?",
+    "answer": "PCOS is a hormonal disorder causing irregular ovulation, while endometriosis involves tissue growing outside the uterus and causes pain."
+  }
+
+]
